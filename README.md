@@ -8,7 +8,7 @@ Ensure the kernel is built (at least, all `*.cmd` files should be generated):
 
 Clone this repository as ".vscode":
 
-    $ git clone git@github.com:amezin/vscode-linux-kernel.git .vscode
+    $ git clone https://github.com/stevenj/vscode-linux-kernel .vscode
 
 Generate compile_commands.json:
 
